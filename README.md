@@ -1,1 +1,1 @@
-# python3_coursework
+# My projects from the Python3 specialization
