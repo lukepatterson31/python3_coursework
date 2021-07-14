@@ -1,1 +1,1 @@
-# My projects from the Python3 specialization
+# My projects from University of Michigan's Python3 specialization
